@@ -1,7 +1,7 @@
-Program napisany w języku C
+Simple Tic-Tac-Toe game written in C
 
-Jest to zwykła gra kóło i krzyżyk na planszy 3x3
+The game takes place on a simple 3x3 grid
 
-Gracz gra z komputerem (AI oparte na drzewie min-max)
+The player takes turns alternating with an AI algorithm (a simple min-max tree)
 
-W trakcie testowania komputer zremisował/wygrał 10/10 partii
+During the testing process 10/10 games resulted in a draw/win for the AI
